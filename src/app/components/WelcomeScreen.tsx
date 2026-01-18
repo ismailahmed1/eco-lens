@@ -214,8 +214,8 @@ export function WelcomeScreen({ onStart }: WelcomeScreenProps) {
               <span className="text-emerald-700">ElevenLabs Voice</span>
             </div>
             <div className="flex items-center gap-2">
-              <Sparkles className="w-4 h-4 text-blue-500" />
-              <span className="text-emerald-700">DigitalOcean</span>
+              <Sparkles className="w-4 h-4 text-green-500" />
+              <span className="text-emerald-700">MongoDB Atlas</span>
             </div>
           </div>
         </div>
