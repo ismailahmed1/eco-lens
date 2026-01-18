@@ -89,10 +89,10 @@ export function PitchSlide() {
                   <p className="font-semibold text-blue-900 mb-1">ElevenLabs</p>
                   <p className="text-xs text-blue-700">Documentary-style voice narration</p>
                 </div>
-                <div className="bg-white p-4 rounded-lg border border-blue-200">
-                  <p className="text-2xl mb-2">☁️</p>
-                  <p className="font-semibold text-blue-900 mb-1">DigitalOcean</p>
-                  <p className="text-xs text-blue-700">Backend hosting & database</p>
+                <div className="bg-white p-4 rounded-lg border border-green-200">
+                  <p className="text-2xl mb-2">🍃</p>
+                  <p className="font-semibold text-green-900 mb-1">MongoDB Atlas</p>
+                  <p className="text-xs text-green-700">Cloud database</p>
                 </div>
               </div>
             </div>
